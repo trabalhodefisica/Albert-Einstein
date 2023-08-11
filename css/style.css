@@ -10,17 +10,22 @@
 }
 .titulo_principal{
     text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
 }
 .texto{
-    width: 94%;
-    margin-left: 3%;
-    margin-right: 3%;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
 
 }
 .paragrafo{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
     width: 98%;
     margin-left: 1%;
     margin-right: 1%
