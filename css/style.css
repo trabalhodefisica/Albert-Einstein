@@ -1,33 +1,38 @@
-#conteudo{
+#conteudo {
     width: 98%;
     margin-left: 1%;
     margin-right: 1%;
 
 }
 
-.cabecalho{
+.cabecalho {
     width: 100%;
 }
-.titulo_principal{
+
+.titulo_principal {
     text-align: center;
     font-size: 3rem;
     font-weight: 700;
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
-.texto{
+
+.texto {
     width: 98%;
     margin-left: 1%;
     margin-right: 1%;
 
 }
-.paragrafo{
+
+.paragrafo {
     text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
     width: 98%;
+    margin-bottom: 2%;
     margin-left: 1%;
     margin-right: 1%
-
 }
