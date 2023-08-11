@@ -1,3 +1,4 @@
 usuario = trabalhodefisica
-senha = trabalhodefisicasobreeinstein
 link = https://trabalhodefisica.github.io/Albert-Einstein/
+contaGmail = trabalhodefisica350@gmail.com 
+senha = trabalhodefisicasobreeinstein
