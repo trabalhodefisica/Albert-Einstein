@@ -1,0 +1,17 @@
+.menu{
+    width: 94%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+.pagina_link{
+    display: inline-block;
+    width: 10%;
+    margin-right: 3%;
+    margin-left: 3%;
+
+
+}
+.link_da_pagina{
+    color: black;
+
+}
