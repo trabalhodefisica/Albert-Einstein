@@ -4,6 +4,8 @@
     margin-left: 3%;
     height: 10%;
     background-color: rgb(190, 187, 187);
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 .pagina_link{
     display: inline-block;
