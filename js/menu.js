@@ -1,7 +1,7 @@
 if(largura_da_tela <= 850){
     botao_menu.classList.remove("nao-existe");
     botao_menu.classList.add("botao_existe");
-    controla_links_mobile(botoes_link)
+    controla_links_mobile(botoes_link,"desaparecer")
     
 }
 if(largura_da_tela > 850){
@@ -11,16 +11,17 @@ if(largura_da_tela > 850){
 
 
 botao_menu.addEventListener("click",()=>{
+    controla_links(botoes_link,botao_menu)
     botao_menu.textContent = controla_botao(botao_menu)
 })
 
 
 function controla_links(botoes,botao){
     if(botao.textContent == "Abrir Menu"){
-
+        controla_links_mobile(botoes,"desaparecer")
     }
     else{
-
+        controla_links_mobile(botoes,"aparecer")
     }
 }
 
@@ -36,9 +37,17 @@ else{
 return texto;
 }
 
-function controla_links_mobile(botoes){
-    for(x = 0 ; x <= botoes.length ; x++){
-        botoes[x].classList.remove("pagina_link")
-        botoes[x].classList.add("nao-existe")
+function controla_links_mobile(botoes,acao){
+    if(acao == "desaparecer"){
+        for(x = 0 ; x <= botoes.length ; x++){
+            botoes[x].classList.remove("pagina_link")
+            botoes[x].classList.add("nao-existe")
+        }
+    }
+    if(acao == "aparecer"){
+        for(x = 0 ; x <= botoes.length ; x++){
+            botoes[x].classList.remove("nao-existe")
+            botoes[x].classList.add("pagina_link")
+        }
     }
 }
