@@ -10,6 +10,8 @@ if(largura_da_tela > 850){
 }
 
 
+
+
 botao_menu.addEventListener("click",()=>{
     controla_links(botoes_link,botao_menu)
     botao_menu.textContent = controla_botao(botao_menu)
@@ -23,6 +25,7 @@ function controla_links(botoes,botao){
     else{
         controla_links_mobile(botoes,"aparecer")
     }
+    console.log(botao.textContent)
 }
 
 function controla_botao(botao){
