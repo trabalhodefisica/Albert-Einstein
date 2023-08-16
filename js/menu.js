@@ -13,8 +13,8 @@ if(largura_da_tela > 850){
 
 
 botao_menu.addEventListener("click",()=>{
-    controla_links(botoes_link,botao_menu)
     botao_menu.textContent = controla_botao(botao_menu)
+    controla_links(botoes_link,botao_menu)
 })
 
 
