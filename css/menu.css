@@ -8,6 +8,7 @@
     padding-bottom: 1%;
 }
 .pagina_link{
+    text-align: center;
     display: inline-block;
     height: 70%;
     margin-right: 3%;
@@ -44,7 +45,8 @@
         display: block;
         margin-right: 3%;
         margin-left: 3%;
-        margin-bottom: 2%;
+        margin-top: 2%;
+        margin-bottom: 1%;
         padding: 1%;
         border: 2px solid black;
         border-radius: 0.5rem;
