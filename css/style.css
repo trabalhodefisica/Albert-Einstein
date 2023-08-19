@@ -88,6 +88,17 @@
         margin-bottom: 3%;
         text-shadow: 1px 1px 0.5px black;
     }
+    .subtitulo{
+        text-align: center;
+        font-size: 0.9rem;
+        font-weight: 400;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1%;
+        margin-bottom: 3%;
+        text-shadow: 1px 1px 0.5px black;
+    }
     .paragrafo {
         text-align: center;
         font-size: 0.7rem;
@@ -146,6 +157,17 @@
         width: 90%;
         margin-right: 5%;
         margin-left: 5%;
+    }
+    .subtitulo{
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: 500;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1%;
+        margin-bottom: 3%;
+        text-shadow: 1px 1px 0.5px black;
     }
     
 }
