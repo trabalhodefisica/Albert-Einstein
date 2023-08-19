@@ -8,3 +8,12 @@ Postulados da teoria da relatividade restrita, são eles:
 2-Princípio de constância da velocidade da luz: “A velocidade da luz no vácuo tem o mesmo valor (c) em todas as direções e em todos os referenciais inerciais.”
 
 Conclusões da Teoria da Relatividade Restrita
+
+        → O limite de qualquer de velocidade de qualquer corpo que se desloca no vácuo é a velocidade da Luz   
+
+        → A confirmação de que o éter não existe (meio que supostamente envolveria o espaço).
+
+        → A reformulação do conceito de simultaneidade de eventos, que passa a ser relativa à observação de dois observadores que estão em referenciais diferentes, passando a ser chamado de princípio da simultaneidade.
+
+    Por meio do princípio da simultaneidade, o tempo e o espaço passam a se comportar de forma relativa um com o outro, de maneira que o observador que se move a uma velocidade próxima à da luz percebe que o tempo passou mais rápido e a distância diminuiu em comparação ao referencial do observador externo, ocorrendo, então, a dilatação do tempo e a contração da distância.
+
