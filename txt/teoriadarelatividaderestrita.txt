@@ -1,0 +1,8 @@
+            TEORIA DA RELATIVIDADE RESTRITA
+A teoria da relatividade restrita, também chamada de teoria da relatividade especial,foi publicada em 1905 pelo cientista Albert Einstein, esta teoria fala sobre a invariabilidade da velocidade da luz no vácuo e da inexistência de um referencial inercial absoluto.
+
+Postulados da teoria da relatividade restrita, são eles:
+
+1-Princípio da relatividade restrita: “As Leis da Física são as mesmas para todos os observadores em todos os referenciais inerciais. Não existe um referencial inercial absoluto.”
+
+2-Princípio de constância da velocidade da luz: “A velocidade da luz no vácuo tem o mesmo valor (c) em todas as direções e em todos os referenciais inerciais.”
