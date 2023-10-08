@@ -24,6 +24,7 @@ avança.addEventListener("click", (event) => {
 document.addEventListener('keydown', function (event) {
 
     const key = event.key;
+    console.log(key)
     if (key == "ArrowLeft") {
         indice = alteraImagem_Indice("volta", indice);
         url = alteraImagem_Url(listaImagens_index, indice, document.title);
