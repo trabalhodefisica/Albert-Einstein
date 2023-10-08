@@ -12,14 +12,15 @@ avança.addEventListener("click", (event) => {
     url = alteraImagem_Url(listaImagens_index, indice, document.title);
     imagem.src = url;
     imagem.onerror = function () {
-        indice --;
+        indice--;
         url = alteraImagem_Url(listaImagens_index, indice, document.title);
         imagem.src = url
     }
-    
+
 
 
 })
+
 document.addEventListener('keydown', function (event) {
 
     const key = event.key;
