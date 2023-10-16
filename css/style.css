@@ -72,10 +72,22 @@
     border-radius: 0.5rem;
 }
 .links-index{
+    font-family: "Futura Bk BT Book";
     text-decoration: none;
     text-align: center;
     font-size: 1.5rem;
     color: black;
+}
+.links_index-p{
+    font-family: "Futura Bk BT Book";
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 0.5rem;
+    
 }
 @media (max-width: 400px) {
     .texto {
