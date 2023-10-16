@@ -71,6 +71,12 @@
     margin-left: 25%;
     border-radius: 0.5rem;
 }
+.links-index{
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+}
 @media (max-width: 400px) {
     .texto {
         display: block;
