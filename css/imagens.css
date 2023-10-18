@@ -1,0 +1,63 @@
+.imagens{
+    display: block;
+    max-width: 95%;
+}
+.imagens div{
+    display: flex;
+}
+.image{
+    width: 70%;
+    max-height: 25rem;
+    display: inline-block;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 0.7rem;
+}
+.botao-imagem{
+    display: inline-block;
+    font-size: 3rem;
+    border-style: none;
+    background-color: transparent;
+    transition: 500ms;
+}
+.botao-imagem:hover{
+    cursor:pointer;
+    font-size: 4rem;
+}
+
+
+@media (max-width: 450px) {
+    .imagens{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+}
+@media (min-width: 451px) {
+    .imagens{
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+}
+@media (min-width: 750px) {
+    .imagens{
+        width: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+
+}
+@media (min-width: 1000px) {
+    .imagens{
+        width: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+
+}
+
+
+

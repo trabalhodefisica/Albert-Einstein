@@ -1,0 +1,200 @@
+@import url(https://db.onlinewebfonts.com/c/cc84650569fd07dac022c55b20c66e46?family=Futura+Bk+BT+Book);
+#conteudo {
+    width: 100%;
+    padding-bottom: 4%;
+    background-color: rgba(167, 198, 203, 0.4)
+
+}
+
+.cabecalho {
+    width: 100%;
+}
+
+.titulo_principal {
+    font-family: "Futura Bk BT Book";
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    text-shadow: 1px 1px 0.5px black;
+}
+.conteudo{
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.texto {
+    display: block;
+    width: 95%;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+.paragrafo {
+    font-family: "Futura Bk BT Book";
+    text-align: left;
+    font-size: 1.5rem;
+    font-weight: 500;
+    width: 98%;
+    margin-bottom: 2%;
+    
+}
+.subtitulo{
+    font-family: "Futura Bk BT Book";
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 550;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    text-shadow: 1px 1px 0.5px black;
+}
+.video{
+    display: block;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 25rem;
+    border-radius: 0.5rem;
+}
+.formula_no_texto{
+    width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 0.5rem;
+}
+.links-index{
+    font-family: "Futura Bk BT Book";
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+}
+.links_index-p{
+    font-family: "Futura Bk BT Book";
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1rem;
+    
+}
+@media (max-width: 400px) {
+    .texto {
+        display: block;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+
+    }
+    .titulo_principal {
+        text-align: center;
+        font-size: 1.3rem;
+        font-weight: 500;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1%;
+        margin-bottom: 3%;
+        text-shadow: 1px 1px 0.5px black;
+    }
+    .subtitulo{
+        text-align: center;
+        font-size: 0.9rem;
+        font-weight: 400;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1%;
+        margin-bottom: 3%;
+        text-shadow: 1px 1px 0.5px black;
+    }
+    .paragrafo {
+        text-align: left;
+        font-size: 0.7rem;
+        font-weight: 300;
+        width: 98%;
+        margin-bottom: 1%;
+    }
+    .imagens{
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    
+    }
+    .image{
+        width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .video{
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        height: 15rem;
+    }
+    
+}
+@media (max-width: 900px) {
+    .texto {
+        display: block;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+
+    }
+    .titulo_principal {
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 500;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1%;
+        margin-bottom: 3%;
+        text-shadow: 1px 1px 0.5px black;
+    }
+    .paragrafo {
+        text-align: center;
+        font-size: 1.2rem;
+        font-weight: 300;
+        width: 98%;
+        margin-bottom: 1%;
+    }
+    .imagens{
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    
+    }
+    .image{
+        width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .subtitulo{
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: 500;
+        width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+        margin-top: 1%;
+        margin-bottom: 3%;
+        text-shadow: 1px 1px 0.5px black;
+    }
+    
+}
